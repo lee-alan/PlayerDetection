@@ -3,7 +3,7 @@
 A Python computer vision application which tracks sports players given a reel of footage.
 It utilizes multiprocessing and the MobileNet SSD detection network.
 
-[![Video of project:](/sports-player-tracker/sports-player-tracker/race.mp4)]
+[![Picture of project:](/sports-player-tracker/sports-player-tracker/images/player-tracker.PNG)]
 
 Requirements (Py modules): dlib, imutils, multiprocessing, cv2.
 To run on command line (Windows):
