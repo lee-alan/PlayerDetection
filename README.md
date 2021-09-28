@@ -1,4 +1,4 @@
-# Sports-Player-Detection
+# Player Detection
 
 A Python computer vision application which tracks sports players given a reel of footage.
 It utilizes multiprocessing and the MobileNet SSD detection network.
